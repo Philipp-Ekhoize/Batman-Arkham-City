@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Project: My chosen webpage</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Batman Arkham City - Reviews</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Critic name</th>
+                    <th>Rating</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>IGN</td>
+                    <td>9.5/10</td>
+                    <td>Oct 14, 2011</td>
+                </tr>
+                <tr>
+                    <td>PC Gamer</td>
+                    <td>80%</td>
+                    <td>Jan 26, 2012</td>
+                </tr>
+                 <tr>
+                    <td>The Gaurdian</td>
+                    <td>5 stars</td>
+                    <td>Oct 14, 2011</td>
+                </tr>
+                <tr>
+                    <td>GameSpot</td>
+                    <td>9/10</td>
+                    <td>Oct 25, 2013</td>
+                </tr>
+                <tr>
+                    <td>Kotaku</td>
+                    <td>Good</td>
+                    <td>Oct 21, 2011</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h2>IGN</h2>
+        <p>
+            Batman: Arkham City isn't perfect,<br>
+            but listing the little things I didn't like gets in the way of all the stuff I adored. <br>
+            The voice acting, the challenges, the amazing opening, <br>
+            the unbelievable ending and the feeling of being the Dark Knight -- <br>
+            these are the things that standout looking back. <br>
+            I've beaten this thing twice and still want to call in sick and chase Riddler Trophies.<br>
+            Batman: Arkham City isn't just better than Batman: Arkham Asylum, <br>
+            it's better than most games on the market.
+        </p>
+        <h2>PC Gamer</h2> 
+        <p>
+           The action is magicked straight from the films and comics,<br> 
+           where discretion and detection are as important as slamming Bat-fists through the faces of the criminally insane.<br> 
+           Well, almost as important. Batman in motion is awesome to behold: he sneaks and swoops with a deft mo-cap mastery, <br>
+           and annihilates room after room of thuggish mental patients with fluid violence, <br>
+           catching and deflecting blows in a storm of semi-procedural devastation.
+        </p>
+        <h2>The Gaurdian</h2> 
+        <p>
+           Rocksteady have done themselves proud with Batman: Arkham City. <br>
+           Rather than simply revisiting old ground, <br>
+           the British developer has upped the ante on its impressive last outing and delivered a game, <br>
+           which stands head and shoulders over its previous efforts.<br> 
+           Despite facing stiffer competition than its predecessor, <br>
+           Batman: Arkham City is easily the best Batman video game of all time and <br>
+           while it may be too soon to call it the best game released all year, <br>
+           it's going to take something pretty special to top it.
+        </p>
+        <h2>GameSpot</h2> 
+        <p>
+             From the speedy exhilaration of soaring high above the streets <br>
+             to the atmospheric thrill of discovering long-forgotten secrets in the tunnels below Gotham, <br>
+             this is an unforgettable adventure that will keep you coming back to the cape and cowl long after you've seen the credits roll.
+        </p>
+        
+        <h2>Kotaku</h2> 
+        <p>
+             Dynamic, exciting, full of fun characters, <br>
+             stuffed with things to do and built upon gameplay that is so good <br>
+             that it shines even when the bait of plot development and ability-upgrading is removed, <br>
+             Arkham City is a magnificent game that merely risks, as far as Batman games go, being untoppable.
+        </p>
