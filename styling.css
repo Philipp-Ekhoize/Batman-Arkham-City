@@ -1,6 +1,7 @@
 body {
     background: rgb(240, 240, 240);
     font-family: serif;
+    margin: 0;
 }
 
 .header {
